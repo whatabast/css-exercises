@@ -1,1 +1,23 @@
-/* Add CSS Styling */
+/* Addinng styling using Class and ID
+Foundtions of CSS in The Odin Project
+Exercise Two */
+
+.odd {
+    background-color: rgb(206, 69, 133);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#second {
+    color: rgb(56, 56, 218);
+    font-size: 36px;
+}
+
+#third {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: rgb(135, 226, 60);
+    font-size: 24px;
+    font-weight: bold;
+}
