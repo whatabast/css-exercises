@@ -1,1 +1,22 @@
-/* Add CSS Styling */
+/* Add CSS Styling 
+Excercise 05 of intro to css*/
+
+
+.container {
+    background-color: rgb(255, 255, 0);
+    color: rgb(255, 0, 0);
+    font-size: 20px;
+    text-align: center;
+}
+
+/*
+.container.text {
+    background-color: yellow;
+    ~this does not work
+}
+
+/*
+div {
+    ~this also works
+}
+*/
