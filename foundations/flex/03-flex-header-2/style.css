@@ -16,7 +16,7 @@ body {
   /* border: 5px solid red; */
   justify-content: center;
   align-items: center;
-  gap: 60%;
+  gap: 20%;
 }
 
 .left {
@@ -24,6 +24,7 @@ body {
   justify-content: center;
   align-items: center;
   /* border: 5px solid red; */
+  flex: 1 1 auto;
 }
 
 .right {
@@ -31,6 +32,7 @@ body {
   justify-content: center;
   /* border: 5px solid red; */
   align-items: center;
+  flex: 1 1 auto;
 }
 
 .profile-image {
@@ -39,6 +41,7 @@ body {
   border-radius: 50%;
   width: 48px;
   height: 48px;
+  flex: 0 0 auto;
 }
 
 .logo {
@@ -56,6 +59,7 @@ button {
   color: white;
   padding: 8px 24px;
   margin: 1rem;
+  flex: 0 0 auto;
 }
 
 a {
